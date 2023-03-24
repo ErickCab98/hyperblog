@@ -2,6 +2,7 @@ Esta es la historia de Erick.
 Tengo 24 años
 Pruebas para el curso Git & Github.
 Experimetno 1
+Experimento 2
 Master 1
 Master 2
 Empezamos de nuevo otra vez.
